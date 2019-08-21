@@ -1,0 +1,42 @@
+@font-face {
+  font-family: ProximaNova;
+  font-weight: 700;
+  src: url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/700.5a1536.woff2) format("woff2"), url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/700.85b748.woff) format("woff"), url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/700.62c3e8.ttf) format("truetype")
+}
+
+@font-face {
+  font-family: ProximaNova;
+  font-weight: 600;
+  src: url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/600.cc4493.woff2) format("woff2"), url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/600.ac7e47.woff) format("woff"), url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/600.9f6cb0.ttf) format("truetype")
+}
+
+@font-face {
+  font-family: ProximaNova;
+  font-weight: 500;
+  src: url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/500.204ef6.woff2) format("woff2"), url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/500.b23851.woff) format("woff"), url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/500.f37065.ttf) format("truetype")
+}
+
+@font-face {
+  font-family: ProximaNova;
+  font-weight: 400;
+  src: url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/400.9732a5.woff2) format("woff2"), url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/400.66aba0.woff) format("woff"), url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/400.db6a27.ttf) format("truetype")
+}
+
+@font-face {
+  font-family: ProximaNova;
+  font-weight: 300;
+  src: url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/300.599bdb.woff2) format("woff2"), url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/300.78077c.woff) format("woff"), url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/300.bcfdbf.ttf) format("truetype")
+}
+
+.fonts-loaded {
+  font-family: ProximaNova, Arial, Helvetica Neue, sans-serif;
+  letter-spacing: 0
+}
+
+@font-face {
+  font-family: icomoon;
+  src: url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/icomoon.c7b56c.eot);
+  src: url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/icomoon.c7b56c.eot#iefix) format("embedded-opentype"), url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/icomoon.499d2f.ttf) format("truetype"), url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/icomoon.922af9.woff) format("woff"), url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/icomoon.780da4.svg#icomoon) format("svg");
+  font-weight: 400;
+  font-style: normal
+}
